@@ -1,6 +1,8 @@
 ### Temperature Converter
 Este é um programa simples em Go que converte temperaturas entre Celsius, Fahrenheit e Kelvin. O programa solicita ao usuário que insira uma temperatura e a unidade de temperatura desejada (Celsius, Fahrenheit ou Kelvin) e, em seguida, realiza a conversão correspondente.
 
+Esse pequeno proejto foi desenvolvido como desafio de código do curso de Fundamentos de Go, realizado DIO·
+
 ## Funcionalidades
 
 O programa possui quatro funções principais para realizar as conversões:
