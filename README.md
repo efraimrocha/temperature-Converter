@@ -2,12 +2,14 @@
 Este é um programa simples em Go que converte temperaturas entre Celsius, Fahrenheit e Kelvin. O programa solicita ao usuário que insira uma temperatura e a unidade de temperatura desejada (Celsius, Fahrenheit ou Kelvin) e, em seguida, realiza a conversão correspondente.
 
 ## Funcionalidades
+
 O programa possui quatro funções principais para realizar as conversões:
 
-celsiusToFahrenheit(c float64) float64: Converte Celsius para Fahrenheit.
-celsiusToKelvin(c float64) float64: Converte Celsius para Kelvin.
-fahrenheitToCelsius(f float64) float64: Converte Fahrenheit para Celsius.
-kelvinToCelsius(k float64) float64: Converte Kelvin para Celsius.
+* celsiusToFahrenheit(c float64) float64: Converte Celsius para Fahrenheit.
+* celsiusToKelvin(c float64) float64: Converte Celsius para Kelvin.
+* fahrenheitToCelsius(f float64) float64: Converte Fahrenheit para Celsius.
+* kelvinToCelsius(k float64) float64: Converte Kelvin para Celsius.
+  
 Além disso, a função principal (main()) interage com o usuário para obter a temperatura e a unidade desejada, realizando a conversão apropriada e exibindo os resultados.
 
 ## Instruções de Uso
