@@ -18,14 +18,6 @@ Além disso, a função principal (main()) interage com o usuário para obter a 
 3. Insira a unidade de temperatura desejada (C, F, K) quando solicitado.
 O programa apresentará o resultado da conversão de acordo com a unidade escolhida.
 
-## Exemplo de Uso:
-
-''' 
-Enter temperature: 25
-Enter temperature unit (C, F, K): C
-25°C, equivale a 77ºF e 298.15K
-'''
-
 ## Limitações
 O programa assume que o usuário fornece uma entrada válida para a unidade de temperatura (C, F, ou K). Qualquer outra entrada resultará em uma mensagem de erro.
 
